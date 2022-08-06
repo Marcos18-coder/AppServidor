@@ -1,6 +1,6 @@
 # AppServidor
 
-Esta aplicación móvil sencilla se conecta a un servidor local, cuando la aplicación no tiene internet se guradan los datos en SQLite local, va a estar verificando si se tiene internet, si ya tiene acceso a internet se envian los datos al servidor local y en SQLite se vacian los registros que se tenian.
+Esta aplicación móvil sencilla se conecta a un servidor local, la aplicación tiene un formulario en donde se ingresan los datos requeridos, cuando la aplicación no tiene internet se guradan los datos en SQLite local, va a estar verificando si se tiene internet, si ya tiene acceso a internet se envian los datos al servidor local y en SQLite se vacian los registros que se tenian.
 
 [![Captura-1.png](https://i.postimg.cc/K8KpXRTq/Captura-1.png)](https://postimg.cc/rDkNxyQx)
 
